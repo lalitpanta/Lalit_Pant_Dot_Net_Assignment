@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\emergencyaccepters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\emergencyaccepters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\emergencyaccepters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\emergencyaccepters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\emergencyaccepters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\emergencyaccepters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\controllers\\emergencyaccepterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:controllers\\emergencyaccepterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\models\\emergencyaccepter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:models\\emergencyaccepter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\emergencyaccepters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\emergencyaccepters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\emergencyaccepters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\emergencyaccepters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\models\\donationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:models\\donationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\donors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\donors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\donors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\donors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\controllers\\bloodbankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:controllers\\bloodbankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\home\\bloodbank.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\home\\bloodbank.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\home\\donor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\home\\donor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\bloodbanks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\bloodbanks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\views\\bloodbanks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:views\\bloodbanks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\models\\bloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:models\\bloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\controllers\\donationrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:controllers\\donationrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\data\\migrations\\20250129113258_adddonorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:data\\migrations\\20250129113258_adddonorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\data\\migrations\\20250129094328_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:data\\migrations\\20250129094328_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\data\\migrations\\20250202124112_hellooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:data\\migrations\\20250202124112_hellooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|d:\\dot.net\\lalit_pant_dot_net_assignment\\data\\migrations\\20250202122907_hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66554DD2-0006-436D-936C-948AC2F7DA24}|Lalit_Pant_Dot_Net_Assignment.csproj|solutionrelative:data\\migrations\\20250202122907_hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "Models\\Donor.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Models\\Donor.cs",
+              "RelativeToolTip": "Models\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:00:01.684Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DonationRequest.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Models\\DonationRequest.cs",
+              "RelativeDocumentMoniker": "Models\\DonationRequest.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Models\\DonationRequest.cs",
+              "RelativeToolTip": "Models\\DonationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:02:17.488Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T14:56:40.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "emergencyacceptersController.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\emergencyacceptersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\emergencyacceptersController.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\emergencyacceptersController.cs",
+              "RelativeToolTip": "Controllers\\emergencyacceptersController.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAmwDgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:28:02.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\emergencyaccepters\\Create.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Create.cshtml",
+              "RelativeToolTip": "Views\\emergencyaccepters\\Create.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T12:36:08.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T09:45:36.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\emergencyaccepters\\Details.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Details.cshtml",
+              "RelativeToolTip": "Views\\emergencyaccepters\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T12:38:47.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\emergencyaccepters\\Index.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Index.cshtml",
+              "RelativeToolTip": "Views\\emergencyaccepters\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T12:39:55.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:50:19.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250202124112_hellooo.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\Migrations\\20250202124112_hellooo.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250202124112_hellooo.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\Migrations\\20250202124112_hellooo.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250202124112_hellooo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:41:13.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "emergencyaccepter.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Models\\emergencyaccepter.cs",
+              "RelativeDocumentMoniker": "Models\\emergencyaccepter.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Models\\emergencyaccepter.cs",
+              "RelativeToolTip": "Models\\emergencyaccepter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:26:15.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\emergencyaccepters\\Delete.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Delete.cshtml",
+              "RelativeToolTip": "Views\\emergencyaccepters\\Delete.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T12:37:54.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\emergencyaccepters\\Edit.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\emergencyaccepters\\Edit.cshtml",
+              "RelativeToolTip": "Views\\emergencyaccepters\\Edit.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T12:39:22.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonorsController.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\DonorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonorsController.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\DonorsController.cs",
+              "RelativeToolTip": "Controllers\\DonorsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:15:46.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250202122907_hello.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\Migrations\\20250202122907_hello.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250202122907_hello.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\Migrations\\20250202122907_hello.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250202122907_hello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:29:07.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T14:25:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Donors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Donors\\Create.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Donors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Donors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T12:46:51.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Donors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Donors\\Index.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Donors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Donors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T12:26:17.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T08:03:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T04:53:38.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:03:08.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BloodBanksController.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\BloodBanksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BloodBanksController.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\BloodBanksController.cs",
+              "RelativeToolTip": "Controllers\\BloodBanksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:19:49.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BloodBank.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Home\\BloodBank.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BloodBank.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Home\\BloodBank.cshtml",
+              "RelativeToolTip": "Views\\Home\\BloodBank.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T13:29:48.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Donor.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Home\\Donor.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Donor.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\Home\\Donor.cshtml",
+              "RelativeToolTip": "Views\\Home\\Donor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T10:59:54.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\BloodBanks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BloodBanks\\Index.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\BloodBanks\\Index.cshtml",
+              "RelativeToolTip": "Views\\BloodBanks\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T15:18:59.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\BloodBanks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\BloodBanks\\Edit.cshtml",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Views\\BloodBanks\\Edit.cshtml",
+              "RelativeToolTip": "Views\\BloodBanks\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T15:25:30.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BloodBank.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Models\\BloodBank.cs",
+              "RelativeDocumentMoniker": "Models\\BloodBank.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Models\\BloodBank.cs",
+              "RelativeToolTip": "Models\\BloodBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:01:20.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:57:54.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250129113258_AddDonorsTable.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\Migrations\\20250129113258_AddDonorsTable.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250129113258_AddDonorsTable.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\Migrations\\20250129113258_AddDonorsTable.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250129113258_AddDonorsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:32:58.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DonationRequestsController.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\DonationRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonationRequestsController.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Controllers\\DonationRequestsController.cs",
+              "RelativeToolTip": "Controllers\\DonationRequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:21:58.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250129094328_FirstMigration.cs",
+              "DocumentMoniker": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\Migrations\\20250129094328_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250129094328_FirstMigration.cs",
+              "ToolTip": "D:\\Dot.net\\Lalit_Pant_Dot_Net_Assignment\\Data\\Migrations\\20250129094328_FirstMigration.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250129094328_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:43:29.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿@model Lalit_Pant_Dot_Net_Assignment.Models.BloodBank
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Add New Blood Bank</h2>
+
+<form asp-action="Create" method="post">
+    <!-- Make sure the method is "post" -->
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Location" class="control-label"></label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Contact" class="control-label"></label>
+        <input asp-for="Contact" class="form-control" />
+        <span asp-validation-for="Contact" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        <!-- Ensures client-side validation -->
+    }
+}

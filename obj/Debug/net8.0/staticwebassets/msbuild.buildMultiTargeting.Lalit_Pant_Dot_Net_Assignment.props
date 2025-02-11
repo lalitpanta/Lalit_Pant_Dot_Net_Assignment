@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lalit_Pant_Dot_Net_Assignment.props" />
+</Project>

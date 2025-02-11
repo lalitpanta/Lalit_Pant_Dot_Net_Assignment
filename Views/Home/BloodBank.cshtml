@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Lalit_Pant_Dot_Net_Assignment.Models.BloodBank>
+
+@{
+    ViewData["Title"] = "Blood Bank List";
+}
+
+<h1>Blood Bank List</h1>
+
+<table id="bloodBankTable" class="display table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Name)</th>
+            <th>@Html.DisplayNameFor(model => model.Location)</th>
+            <th>@Html.DisplayNameFor(model => model.Contact)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Location</td>
+                <td>@item.Contact</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#bloodBankTable').DataTable();
+        });
+
+        function LoadBloodBankListing() {
+            var bloodBankData = [];
+            $.ajax({
+                type: "GET",
+                url: "/BloodBanks/GetAll", // Ensure you have an endpoint for this in your controller
+                async: true,
+                success: function (data) {
+                    console.log(data); // Debugging: Check fetched data in the console
+                    $.each(data, function (key, value) {
+                        bloodBankData.push([
+                            value.name,
+                            value.location,
+                            value.contact
+                        ]);
+                    });
+
+                    $('#bloodBankTable').DataTable({
+                        data: bloodBankData,
+                        destroy: true // Destroy the previous DataTable instance before reinitializing
+                    });
+                },
+                error: function (err) {
+                    console.log("Error fetching blood bank data", err);
+                }
+            });
+        }
+    </script>
+
+    <style>
+        .dataTables_filter input {
+            border-radius: 20px;
+            border: 1px solid #ccc;
+            padding: 10px 15px;
+            width: 250px;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+
+            .dataTables_filter input:focus {
+                border-color: #007bff;
+                box-shadow: 0 0 10px rgba(0, 123, 255, 0.25);
+            }
+    </style>
+}

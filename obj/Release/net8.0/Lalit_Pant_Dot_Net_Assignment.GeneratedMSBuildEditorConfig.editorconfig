@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lalit_Pant_Dot_Net_Assignment
+build_property.RootNamespace = Lalit_Pant_Dot_Net_Assignment
+build_property.ProjectDir = D:\Dot.net\Lalit_Pant_Dot_Net_Assignment\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Dot.net\Lalit_Pant_Dot_Net_Assignment
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/BloodBanks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RCYW5rc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/BloodBanks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RCYW5rc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/BloodBanks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RCYW5rc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/BloodBanks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RCYW5rc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/BloodBanks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RCYW5rc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/DonationRequests/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25SZXF1ZXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/DonationRequests/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25SZXF1ZXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/DonationRequests/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25SZXF1ZXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/DonationRequests/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25SZXF1ZXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/DonationRequests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25SZXF1ZXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Donors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Donors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Donors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Donors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Donors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Home/BloodBank.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9vZEJhbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Home/Donor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb25vci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot.net/Lalit_Pant_Dot_Net_Assignment/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-puwegg40cd

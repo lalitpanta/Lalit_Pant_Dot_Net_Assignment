@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Lalit_Pant_Dot_Net_Assignment.Models.BloodBank>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Blood Bank List</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Add New Blood Bank</a>
+</p>
+
+<table id="bloodBankTable" class="display table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Name)</th>
+            <th>@Html.DisplayNameFor(model => model.Location)</th>
+            <th>@Html.DisplayNameFor(model => model.Contact)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Location</td>
+                <td>@item.Contact</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#bloodBankTable').DataTable();
+        });
+
+        function LoadBloodBankListing() {
+            var bloodBankData = [];
+            $.ajax({
+                type: "GET",
+                url: "/BloodBank/GetAll", // Ensure you have an endpoint for this in your controller
+                async: true,
+                success: function (data) {
+                    console.log(data); // Debugging: Check fetched data in the console
+                    $.each(data, function (key, value) {
+                        var editBtn = "<a href='/BloodBank/Edit/" + value.id + "' class='btn btn-primary'>Edit</a>";
+                        var detailsBtn = "<a href='/BloodBank/Details/" + value.id + "' class='btn btn-info'>Details</a>";
+                        var deleteBtn = "<a href='/BloodBank/Delete/" + value.id + "' class='btn btn-danger'>Delete</a>";
+                        var actions = editBtn + " " + detailsBtn + " " + deleteBtn;
+                        bloodBankData.push([
+                            value.name,
+                            value.location,
+                            value.contact,
+                            actions
+                        ]);
+                    });
+
+                    $('#bloodBankTable').DataTable({
+                        data: bloodBankData,
+                        destroy: true
+                    });
+                },
+                error: function (err) {
+                    console.log("Error fetching blood bank data", err);
+                }
+            });
+        }
+    </script>
+
+    <style>
+        .dataTables_filter input {
+            border-radius: 20px;
+            border: 1px solid #ccc;
+            padding: 10px 15px;
+            width: 250px;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+
+            .dataTables_filter input:focus {
+                border-color: #007bff;
+                box-shadow: 0 0 10px rgba(0, 123, 255, 0.25);
+            }
+    </style>
+}
