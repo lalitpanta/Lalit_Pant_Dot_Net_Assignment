@@ -1,6 +1,12 @@
 Blood Donation Management System
 
-This MVC Core web application is an academic assignment project developed using .NET technologies and C# as part of my coursework. The project focuses on efficiently managing blood donations while ensuring high levels of security and accessibility. It features an emergency acceptor that allows recipients to request blood urgently, along with secure donation authorization and authentication mechanisms. Additionally, an admin panel is provided for managing blood banks and overseeing emergency acceptor requests. By implementing robust authentication and role-based access control, the system serves as a reliable and secure platform for blood donation management, effectively integrating the core concepts of C#, .NET Core MVC, and web application security.
+This MVC Core web application is an academic assignment project developed using .NET technologies and C# as part of my coursework. The project is designed to efficiently manage blood donations while ensuring high levels of security, accessibility, and user convenience.
+
+Key features include an emergency acceptor that allows recipients to request blood urgently, along with secure donation authorization and authentication mechanisms. An admin panel is provided for managing blood banks and overseeing emergency acceptor requests, ensuring smooth operations.
+
+The system implements robust authentication and role-based access control, making it a reliable and secure platform for blood donation management. Additionally, it offers searching and sorting functionalities, allowing users to quickly find relevant information about donors, recipients, and blood availability.
+
+By integrating core concepts of C#, .NET Core MVC, and web application security, this project provides a structured, efficient, and user-friendly solution for blood donation management.
 
 ![Screenshot 2025-02-02 220723](https://github.com/user-attachments/assets/eba9a8ee-fa38-4faa-ba59-1f844859225e)
 ![Screenshot 2025-02-02 220741](https://github.com/user-attachments/assets/f4e15478-0e0d-4a62-bec7-be3484ec4d3c)
