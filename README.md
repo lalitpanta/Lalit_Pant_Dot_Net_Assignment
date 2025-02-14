@@ -8,12 +8,13 @@ The system implements robust authentication and role-based access control, makin
 
 By integrating core concepts of C#, .NET Core MVC, and web application security, this project provides a structured, efficient, and user-friendly solution for blood donation management.
 
+![image](https://github.com/user-attachments/assets/ca74de3d-7db0-49b8-bf43-f4be0592c81f)
+![image](https://github.com/user-attachments/assets/70122bad-e2b8-4c0e-9f0c-436116944810)
 ![image](https://github.com/user-attachments/assets/97533a89-135f-4399-88ad-61ef4112d269)
 
 
 ![image](https://github.com/user-attachments/assets/cf0ac2fd-5ce2-4532-b139-678783d91364)
-![image](https://github.com/user-attachments/assets/ca74de3d-7db0-49b8-bf43-f4be0592c81f)
-![image](https://github.com/user-attachments/assets/70122bad-e2b8-4c0e-9f0c-436116944810)
+
 
 
 
