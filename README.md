@@ -20,7 +20,8 @@ By integrating core concepts of C#, .NET Core MVC, and web application security,
 ![Screenshot 2025-02-11 125641](https://github.com/user-attachments/assets/d846db7e-b408-4efe-9ad4-348804f817d6)
 ![Screenshot 2025-02-02 221041](https://github.com/user-attachments/assets/7852ef07-f9c3-4697-94cd-8e2da0386b2e)
 ![Screenshot 2025-02-02 221014](https://github.com/user-attachments/assets/43769ea5-06c2-4501-aef1-fb5cecab11c2)
-![Screenshot 2025-02-02 220936](https://github.com/user-attachments/assets/237c5918-a8f7-49a5-b278-f373747a463d)
+![image](https://github.com/user-attachments/assets/8057075f-ea84-4218-9245-97668140c152)
+
 ![Screenshot 2025-02-11 130220](https://github.com/user-attachments/assets/8f5d8297-80bc-4245-aef2-0155026d113a)
 ![Screenshot 2025-02-11 130150](https://github.com/user-attachments/assets/93215788-4ba0-4e1f-9023-af96eeefb5dc)
 ![Screenshot 2025-02-11 130126](https://github.com/user-attachments/assets/6e062db7-3442-41c7-af3c-d5c8b0fb64d2)
