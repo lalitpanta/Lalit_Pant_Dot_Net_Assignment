@@ -1,4 +1,4 @@
-Blood Donation Management System
+Blood Donation Management System By Lalit Pant.
 
 This MVC Core web application is an academic assignment project developed using .NET technologies and C# as part of my coursework. The project is designed to efficiently manage blood donations while ensuring high levels of security, accessibility, and user convenience.
 
